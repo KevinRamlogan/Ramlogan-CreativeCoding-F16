@@ -1,3 +1,4 @@
+// Original Processing version created with Daniel Young Sang Park 
 
 function setup(){
   createCanvas(600,500);
