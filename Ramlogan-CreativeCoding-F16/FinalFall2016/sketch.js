@@ -1,3 +1,10 @@
+// Kevin Ramlogan Creative Coding Final Project.
+//Code Citation:
+//https://www.openprocessing.org/sketch/193646
+//https://www.openprocessing.org/sketch/391551
+
+
+
 var _value;
 var myObject; 
 var myObjectTwo;
